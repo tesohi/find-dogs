@@ -1,0 +1,17 @@
+{
+	"name": "find-dogs",
+	"private": true,
+	"version": "0.0.0",
+	"type": "module",
+	"scripts": {
+		"start": "vite",
+		"build": "vite build"
+	},
+	"devDependencies": {
+		"eslint": "^8.56.0",
+		"vite": "^5.0.12"
+	},
+	"dependencies": {
+		"phaser": "^3.70.0"
+	}
+}
